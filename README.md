@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 
 
-<!--
-**yigdo/yigdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I am Yigit Gulay. I am from Turkey but I have German friends. I am middle-aged boy.You can be team with me.But not
+everyone can.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on IYEHolding
+- 🌱 I’m currently learning Php
+- 👯 I’m looking to collaborate on my projects.
+- 🤔 I’m looking for help with the 
+- 💬 Ask me about friendshipness
+- 📫 How to reach me: Hmm... E-mail?
+- ⚡ Fun fact: I am a sailor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
