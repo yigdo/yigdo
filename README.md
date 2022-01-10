@@ -1,9 +1,8 @@
 ### Hi there 👋 
 
-Hello, I am Yigit Gulay. I am from Turkey but I have German friends. I am middle-aged boy.You can be team with me.But not
-everyone can.
+Hello, I am Yigdo. I am a 11 years old developer. You can text via Twitter. If you are interested you can check out my youtube [Reverse Yigit](https://www.youtube.com/channel/UCPd65ISIH6dSb-k6Xg8LHMQ) all tho I am speaking Turkish there.
 
-- 🔭 I’m currently working on IYEHolding
+- 🔭 I’m currently working on Congreer
 - 🌱 I’m currently learning Php
 - 👯 I’m looking to collaborate on my projects.
 - 🤔 I’m looking for help with the 
