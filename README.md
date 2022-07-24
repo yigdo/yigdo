@@ -20,11 +20,9 @@ Welcome to my Github profile. I am a half self-taught and half learned from a ma
 
 #### Contact Me 
 
-I don't think that you need to contact me. Either ways just mail text me from Twitter.
-
+I don't think that you need to contact me. Either ways just 📨 me from instagram
 #### Social Media
 
 - Youtube : --Wait a bit--
-- Twitter : --Wait a bit--
 - Facebook : Who still use that?
 - Instagram : --Wait a bit--
