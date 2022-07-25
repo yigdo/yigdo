@@ -1,77 +1,75 @@
 {
-  "blog": {
-    "posts": [
-      {
-        "Title": "Why books are educative",
-        "Tags": ["Books", "OffTopic", "Education"],
-        "ImageUrl": "https://picsum.photos/200/300",
-        "Body": "Books are educative because lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi iusto reprehenderit accusantium assumenda eos ex, quis pariatur consequatur voluptatibus repellat maxime dolores vitae explicabo velit officiis facilis odit autem modi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi iusto reprehenderit accusantium assumenda eos ex, quis pariatur consequatur voluptatibus repellat maxime dolores vitae explicabo velit officiis facilis odit autem modi?"
-      },
-      {
-        "Title": "React for beginners",
-        "Tags": ["React", "FrontendDevelopment", "Education"],
-        "ImageUrl": "https://picsum.photos/200/300",
-        "Body": "React uses VDOM for rendering. Also lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi iusto reprehenderit accusantium assumenda eos ex, quis pariatur consequatur voluptatibus repellat maxime dolores vitae explicabo velit officiis facilis odit autem modi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi iusto reprehenderit accusantium assumenda eos ex, quis pariatur consequatur voluptatibus repellat maxime dolores vitae explicabo velit officiis facilis odit autem modi?"
-      },
-      {
-        "Title": "MyJsonServer is awesome",
-        "Tags": ["Data", "Enviroment", "Comparason"],
-        "ImageUrl": "https://picsum.photos/200/300",
-        "Body": "This project uses MyJsonServer because  lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi iusto reprehenderit accusantium assumenda eos ex, quis pariatur consequatur voluptatibus repellat maxime dolores vitae explicabo velit officiis facilis odit autem modi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi iusto reprehenderit accusantium assumenda eos ex, quis pariatur consequatur voluptatibus repellat maxime dolores vitae explicabo velit officiis facilis odit autem modi?"
-      },
-      {
-        "Title": "Another Node.Js was born: Dino",
-        "Tags": ["News", "OffTopic", "Comparason"],
-        "ImageUrl": "https://picsum.photos/200/300",
-        "Body": "Use Node.js or Deno nowadays, lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi iusto reprehenderit accusantium assumenda eos ex, quis pariatur consequatur voluptatibus repellat maxime dolores vitae explicabo velit officiis facilis odit autem modi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi iusto reprehenderit accusantium assumenda eos ex, quis pariatur consequatur voluptatibus repellat maxime dolores vitae explicabo velit officiis facilis odit autem modi?"
-      }
-    ],
-    "Topics": [
-      {
-        "Name": "Books",
-        "Display": "Books",
-        "Description": "Everything about books."
-      },
-      {
-        "Name": "OfFTopic",
-        "Display": "Off Topic",
-        "Description": "Off Topic, no need for a topic."
-      },
-      {
-        "Name": "Education",
-        "Display": "Education",
-        "Description": "Educative content is stored here."
-      },
-      {
-        "Name": "React",
-        "Display": "React",
-        "Description": "Everything about React Framework."
-      },
-      {
-        "Name": "FrontendDevelopment",
-        "Display": "Frontend Development",
-        "Description": "Everything about frontend development."
-      },
-      {
-        "Name": "Data",
-        "Display": "Data",
-        "Description": "Everything about data and boring stuff :)"
-      },
-      {
-        "Name": "Enviroment",
-        "Display": "Enviroment",
-        "Description": "If you use to develop, it is in your enviroment."
-      },
-      {
-        "Name": "Comparason",
-        "Display": "Comparason",
-        "Description": "Everything about Comparing different things."
-      },
-      {
-        "Name": "News",
-        "Display": "News",
-        "Description": "Like a news paper, but digital."
-      }
-    ]
-  }
+  "posts": [
+    {
+      "Title": "Why books are educative",
+      "Tags": ["Books", "OffTopic", "Education"],
+      "ImageUrl": "https://picsum.photos/200/300",
+      "Body": "Books are educative because lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi iusto reprehenderit accusantium assumenda eos ex, quis pariatur consequatur voluptatibus repellat maxime dolores vitae explicabo velit officiis facilis odit autem modi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi iusto reprehenderit accusantium assumenda eos ex, quis pariatur consequatur voluptatibus repellat maxime dolores vitae explicabo velit officiis facilis odit autem modi?"
+    },
+    {
+      "Title": "React for beginners",
+      "Tags": ["React", "FrontendDevelopment", "Education"],
+      "ImageUrl": "https://picsum.photos/200/300",
+      "Body": "React uses VDOM for rendering. Also lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi iusto reprehenderit accusantium assumenda eos ex, quis pariatur consequatur voluptatibus repellat maxime dolores vitae explicabo velit officiis facilis odit autem modi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi iusto reprehenderit accusantium assumenda eos ex, quis pariatur consequatur voluptatibus repellat maxime dolores vitae explicabo velit officiis facilis odit autem modi?"
+    },
+    {
+      "Title": "MyJsonServer is awesome",
+      "Tags": ["Data", "Enviroment", "Comparason"],
+      "ImageUrl": "https://picsum.photos/200/300",
+      "Body": "This project uses MyJsonServer because  lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi iusto reprehenderit accusantium assumenda eos ex, quis pariatur consequatur voluptatibus repellat maxime dolores vitae explicabo velit officiis facilis odit autem modi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi iusto reprehenderit accusantium assumenda eos ex, quis pariatur consequatur voluptatibus repellat maxime dolores vitae explicabo velit officiis facilis odit autem modi?"
+    },
+    {
+      "Title": "Another Node.Js was born: Dino",
+      "Tags": ["News", "OffTopic", "Comparason"],
+      "ImageUrl": "https://picsum.photos/200/300",
+      "Body": "Use Node.js or Deno nowadays, lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi iusto reprehenderit accusantium assumenda eos ex, quis pariatur consequatur voluptatibus repellat maxime dolores vitae explicabo velit officiis facilis odit autem modi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi iusto reprehenderit accusantium assumenda eos ex, quis pariatur consequatur voluptatibus repellat maxime dolores vitae explicabo velit officiis facilis odit autem modi?"
+    }
+  ],
+  "Topics": [
+    {
+      "Name": "Books",
+      "Display": "Books",
+      "Description": "Everything about books."
+    },
+    {
+      "Name": "OfFTopic",
+      "Display": "Off Topic",
+      "Description": "Off Topic, no need for a topic."
+    },
+    {
+      "Name": "Education",
+      "Display": "Education",
+      "Description": "Educative content is stored here."
+    },
+    {
+      "Name": "React",
+      "Display": "React",
+      "Description": "Everything about React Framework."
+    },
+    {
+      "Name": "FrontendDevelopment",
+      "Display": "Frontend Development",
+      "Description": "Everything about frontend development."
+    },
+    {
+      "Name": "Data",
+      "Display": "Data",
+      "Description": "Everything about data and boring stuff :)"
+    },
+    {
+      "Name": "Enviroment",
+      "Display": "Enviroment",
+      "Description": "If you use to develop, it is in your enviroment."
+    },
+    {
+      "Name": "Comparason",
+      "Display": "Comparason",
+      "Description": "Everything about Comparing different things."
+    },
+    {
+      "Name": "News",
+      "Display": "News",
+      "Description": "Like a news paper, but digital."
+    }
+  ]
 }
