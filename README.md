@@ -25,4 +25,4 @@ I don't think that you need to contact me. Either ways just 📨 me from instagr
 
 - Youtube : --Wait a bit--
 - Facebook : Who still use that?
-- Instagram : <a href="https://instagram.com/yigidogulay">Yigit Codes</a>
+- Instagram : Hacked NGL
