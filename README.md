@@ -16,6 +16,7 @@ Welcome to my Github profile. I am a half self-taught and half learned from a ma
 2020: My mom found me a coder that can teach me how to master PHP <br />
 2021: Continued coding with my Personal teacher <a href="https://github.com/RamenChan"> RamenChan </a>. <br />
 2022: I enrolled to 'MSCD' course to learn new technologies. <br />
+2022: 2022 / 09 / 24 : Finished MSCD course and now a c# developer. <br />
 2023: Haven't come yet 🙃 <br />
 
 #### Contact Me 
