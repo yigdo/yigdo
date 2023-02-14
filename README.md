@@ -17,13 +17,15 @@ Welcome to my Github profile. I am a half self-taught and half learned from a ma
 2021: Continued coding with my Personal teacher <a href="https://github.com/RamenChan"> RamenChan </a>. <br />
 2022: I enrolled to 'MSCD' course to learn new technologies. <br />
 2022: 2022 / 09 / 24 : Finished MSCD course and now a c# developer. <br />
-2023: Haven't come yet 🙃 <br />
+2023: Tried to avoid C# with Angular and Pocketbase <br />
+2023: Immediately failed and fell in love with C# again <br />
+2023: Found my partner <a href="https://github.com/Memolike">Memolike</a> <br />
 
 #### Contact Me 
 
 I don't think that you need to contact me. Either ways just 📨 me from instagram
 #### Social Media
 
-- Youtube : --Wait a bit--
+- Youtube : [Yiğit Gülay](https://www.youtube.com/channel/UCe5Wl4CjkKSnhPWMA6hkJlg)
 - Facebook : Who still use that?
-- Instagram : Hacked NGL
+- Instagram : No need
