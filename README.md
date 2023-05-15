@@ -27,5 +27,4 @@ I don't think that you need to contact me. Either ways just 📨 me from instagr
 #### Social Media
 
 - Youtube : [Yiğit Gülay](https://www.youtube.com/channel/UCe5Wl4CjkKSnhPWMA6hkJlg)
-- Facebook : Who still use that?
-- Instagram : No need
+- Twitter: [@ImYigdo](https://twitter.com/ImYigdo)
