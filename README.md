@@ -1,30 +1,20 @@
-## Welcome 👋
+## whoami
+This is Yigdo, a young and passionate software developer from 🇹🇷
 
-Welcome to my Github profile. I am a half self-taught and half learned from a master developer. I LOVE coding in C#, PHP, Javascript and python. My timeline of learning how to code is down below. I actually enjoy coding in multiple languages at once. I am learning C# and I finished my PHP journey. My hobbies are:
+I’ve been in this industry since 2018, trying new things and exploring the wild thing humans named “Computer”.
 
-- Coding (🌹)
-- Sim Racing (❤)
-- Playing Minecraft (⚒)
+If you find a flaw about my code, please report. Let’s help eachother eh?😀
 
-#### Me learning how to code timeline
+## My Skills
 
-2018: My mom bought me a book about coding in 'Small Basic' <br />
-2019: My mom bought me a book about coding in 'Python' <br />
-2019: I enrolled to a course called 'Harward CS101' <br />
-2019: Started my PHP jouney via watching 'Youtube' <br />
-2019 Summer: Started a Udemy course about coding in PHP <br />
-2020: My mom found me a coder that can teach me how to master PHP <br />
-2021: Continued coding with my Personal teacher <a href="https://github.com/RamenChan"> RamenChan </a>. <br />
-2022: I enrolled to 'MSCD' course to learn new technologies. <br />
-2022: 2022 / 09 / 24 : Finished MSCD course and now a c# developer. <br />
-2023: Tried to avoid C# with Angular and Pocketbase <br />
-2023: Immediately failed and fell in love with C# again <br />
-2023: Found my partner <a href="https://github.com/Memolike">Memolike</a> <br />
+  
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>  
+ 
+ ## Certifications
 
-#### Contact Me 
+- [SmartPro Certified .Net Developer](smartpro.com.tr)
 
-I don't think that you need to contact me. Either ways just 📨 me from instagram
-#### Social Media
-
-- Youtube : [Yiğit Gülay](https://www.youtube.com/channel/UCe5Wl4CjkKSnhPWMA6hkJlg)
-- Twitter: [@ImYigdo](https://twitter.com/ImYigdo)
+## Links and Socials
+- [Github Skyline](skyline.github.com/yigdo/2023)
+- [Youtube](youtube.com/@YigitGulay)
+- [Twitter or X](x.com/@TheYigdo)
