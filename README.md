@@ -3,7 +3,7 @@ This is Yigdo, a young and passionate software developer from 🇹🇷
 
 I’ve been in this industry since 2018, trying new things and exploring the wild thing humans named “Computer”.
 
-If you find a flaw about my code, please report. Let’s help eachother eh?😀
+If you find a flaw about my code, please report. Let’s help each other eh?😀
 
 ## My Skills
 
